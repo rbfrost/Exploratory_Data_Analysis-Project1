@@ -22,10 +22,6 @@ plot(
 
 
 ##CREATE PNG
-<<<<<<< HEAD:Plot2.R
 dev.copy(png, file='plot2.png', height=480, width=480)
 dev.off()
-=======
-dev.copy(png, file='plot2.png', height=400, width=400)
-dev.off()
->>>>>>> origin/master:plot2.R
+
