@@ -17,10 +17,5 @@ hist(
 
 
 ##CREATE PNG
-<<<<<<< HEAD:Plot1.R
 dev.copy(png, file='plot1.png', height=480, width=480)
 dev.off()
-=======
-dev.copy(png, file='plot1.png', height=400, width=400)
-dev.off()
->>>>>>> origin/master:plot1.R
